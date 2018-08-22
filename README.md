@@ -10,6 +10,4 @@ This app is built with many amazing framework, including:
 
 <a href="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="150"></a>
 
-<a href="https://feathericons.com/"><img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/feather.svg?sanitize=true"> Feathericons</a>
-
 For third-party library licenses, see THIRD_PARTY_LICENSES.md for detail
