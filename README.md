@@ -4,13 +4,13 @@
 
 Ever feel JIRA's UI is hard to use? Every small action it reloads the whole page or open a brand new one. That list of subtask really doesn't let you do anything. Searching doesn't really work the way you expected and if you find the thing, you don't know how you did it.
 
-Enter DarkJ! A fluid, dark themed native desktop JIRA UI that helps you get by your daily JIRA workflow easier. With a custom built, Angular based UI, viewing issues has never been easier. A easy-to-use tab system manages all the issues you care about in one convenient place. Live update and pinning issues let you resume work faster and a custom built search page let you search almost everything.  
+Enter DarkJ! A fluid, dark themed native desktop UI for JIRA that helps you get by your daily JIRA workflow easier. With a custom built, Angular based UI, viewing issues has never been easier. A easy-to-use tab system manages all the issues you care about in one convenient place. Live update and pinning issues let you resume work faster and a custom built search page let you search almost everything.  
 
 Interested? How about heading over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases) page and try it out? Oh, and it's free to use by the way.
 
 DarkJ's UI is based on the amazing [Black Dashboard Theme by CreativeTim](https://www.creative-tim.com/product/black-dashboard).
 
-This app is a fan created work and is not endorsed by Atlassian.
+**This app is a fan created work and is not an official product of JIRA or endorsed by Atlassian.**
 
 # Highlights
 
