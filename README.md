@@ -14,10 +14,6 @@ This app is a fan created work and is not endorsed by Atlassian.
 
 # Highlights
 
-![Preview 2](https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-search.gif "Preview")
-![Preview 3](https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-status-comment.gif "Preview")
-![Preview 4](https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-create.gif "Preview")
-
  - Angular based UI with fluid transitions and animations, no more waiting for the whole page to load.
  - Tab based issue viewing with pin and live update, all the issues you cared about are easily within reach.
  - Full-text based search feature that lets you search the entire JIRA, no need to fiddle with that complicated JIRA search function.
