@@ -47,7 +47,9 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
 
     DarkJ stores your JIRA API token with your computer's built-in credential manager, on Windows, it's Credential Manager; on MacOS, it's Keyring. 
     
-    Your API token and JIRA login information is only used for authentication purposes and DarkJ will only send your JIRA data and JIRA account information to your organization's JIRA service.
+    Your API token and JIRA login information is only used for authentication purposes and DarkJ will only send your JIRA data and JIRA account information to your organization's JIRA service and not anywhere else.
+
+    To improve your account safety, use a dedicated API token for DarkJ.
 
 2. Is there any keyboard shortcuts?
 
