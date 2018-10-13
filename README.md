@@ -35,7 +35,28 @@ DarkJ's UI is based on the amazing [Black Dashboard Theme by CreativeTim](https:
 
 # Download & Installation
 
-Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases) page and download the latest exe/dmg to get started!
+Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases) page and download the latest version to get started!
+
+## Windows
+
+Download the latest `setup.exe` and follow the installation instruction.
+
+## MacOS
+
+You can download either the `.zip` or `.dmg` to use DarkJ.
+
+If you downloaded the `.zip`:
+  
+  1. Extract the content of the `.zip` file.
+  2. You can put the extracted file in your `/Applications` folder for it to show up in Launchpad.
+
+If you downloaded the `.dmg`:
+
+  1. Open the `.dmg` file.
+  2. After clicking "Agree", drag the DarkJ icon into the Applications folder icon on screen.
+  3. DarkJ should now be available in Launchpad.
+  4. If there's a separate DarkJ icon appears on your Desktop, you can remove that by draggin it to the Trashcan.
+
 
 # How much does this app cost?
 
@@ -43,9 +64,13 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
 
 # FAQ
 
- - It doesn't start on MacOS
+ - It doesn't start on MacOS.
 
-    Your security settings might be preventing it from running. To run it, open System Preferences -> Security & Privacy and you should see DarkJ being prevented from running. Click "Open" to run DarkJ
+    Before 0.1.1, DarkJ is not signed and this has been corrected in release 0.1.1. After 0.1.1, you should be able to click "Open" in the warning dialog that shows up when you first start DarkJ. 
+    
+ - On MacOS, it asks me for permission to use Keychain.
+
+    DarkJ uses Keychain to store you JIRA token so it will need access to your Keychain to function properly. To prevent future warning, click "Always Allow".
 
  - Is my JIRA data safe?
 
@@ -63,11 +88,11 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
         Ctrl + n = Open Create Issue Window
         ESC = Exit current window
     
-    There are other shortcuts available and they are listed in the menus. For MacOS, replace Ctrl with Command
+    There are other shortcuts available and they are listed in the menus. For MacOS, replace Ctrl with Command.
 
  - I am getting some timeout warning.
 
-    Try clicking the "Refresh" button on the top-right corner or press "F5" to reload the app
+    Try clicking the "Refresh" button on the top-right corner or press "F5" to reload the app.
 
  - I can't transition, create issue or perform some actions.
 
