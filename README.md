@@ -43,7 +43,11 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
 
 # FAQ
 
-1. Is my JIRA data safe?
+ - It doesn't start on MacOS
+
+    Your security settings might be preventing it from running. To run it, open System Preferences -> Security & Privacy and you should see DarkJ being prevented from running. Click "Open" to run DarkJ
+
+ - Is my JIRA data safe?
 
     DarkJ stores your JIRA API token with your computer's built-in credential manager, on Windows, it's Credential Manager; on MacOS, it's Keyring. 
     
@@ -51,7 +55,7 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
 
     To improve your account safety, use a dedicated API token for DarkJ.
 
-2. Is there any keyboard shortcuts?
+ - Is there any keyboard shortcuts?
 
     Yep, common useful shortcuts are: 
 
@@ -61,11 +65,11 @@ Head over to the [Releases](https://github.com/Yamazaki93/DarkJ-Release/releases
     
     There are other shortcuts available and they are listed in the menus. For MacOS, replace Ctrl with Command
 
-3. I am getting some timeout warning.
+ - I am getting some timeout warning.
 
     Try clicking the "Refresh" button on the top-right corner or press "F5" to reload the app
 
-4. I can't transition, create issue or perform some actions.
+ - I can't transition, create issue or perform some actions.
 
     Although we try to create controls for most JIRA applications, there might be fields that DarkJ doesn't support and is required to fill in during issue creation or transition.
 
