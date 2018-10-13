@@ -67,14 +67,14 @@ If you downloaded the `.dmg`:
  - It doesn't start on MacOS.
 
     Before 0.1.1, DarkJ is not signed and this has been corrected in release 0.1.1. After 0.1.1, you should be able to click "Open" in the warning dialog that shows up when you first start DarkJ. 
-    
- - On MacOS, it asks me for permission to use Keychain.
+
+ - On MacOS, it asks me for permission to use Keychain Access.
 
     DarkJ uses Keychain to store you JIRA token so it will need access to your Keychain to function properly. To prevent future warning, click "Always Allow".
 
  - Is my JIRA data safe?
 
-    DarkJ stores your JIRA API token with your computer's built-in credential manager, on Windows, it's Credential Manager; on MacOS, it's Keyring. 
+    DarkJ stores your JIRA API token with your computer's built-in credential manager, on Windows, it's Credential Manager; on MacOS, it's Keychain Access. 
     
     Your API token and JIRA login information is only used for authentication purposes and DarkJ will only send your JIRA data and JIRA account information to your organization's JIRA service and not anywhere else.
 
